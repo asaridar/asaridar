@@ -6,9 +6,9 @@ Master of Architecture candidate at ALBA in Beirut. I build and ship products on
 
 ## Veluri
 
-An iOS subscription tracker, live on the App Store. You screenshot your Apple subscriptions, and a
-vision model reads the image and returns every name, price, and renewal date as structured data.
-It never connects to your bank.
+A spending and budget app for iPhone, live on the App Store. You add a screenshot and a vision
+model reads it into structured rows: what you spent, your budgets, and every bill and subscription
+before it renews. It never connects to your bank.
 
 Swift and SwiftUI on the client. A Next.js API with Gemini 2.5 Flash behind it, on Supabase and
 Vercel. StoreKit and RevenueCat for subscriptions, WidgetKit for the home screen widgets.
@@ -24,13 +24,16 @@ day to day operations.
 
 ## Architecture
 
-Architectural intern at CAP, on international infrastructure projects in Iraq and Angola. I prepare
-construction document sets for a port development in Angola and develop the Baghdad ring road
-through schematic design.
+Architectural intern at CAP, Jul to Aug 2026, on international infrastructure projects in Iraq and
+Angola. I prepared construction document sets for a port development in Angola and developed the
+Baghdad ring road through schematic design.
+
+Site internship with the Mohammad Issam Halabieh Atelier over the same months, following a
+residential building in Mousseytbeh from excavation to the start of the structure.
 
 Revit, Rhino 3D, AutoCAD, Enscape.
 
-[Selected work](https://ahmadsaridar.com)
+[Selected work](https://ahmadsaridar.com/architecture)
 
 ## Tools
 
@@ -42,6 +45,6 @@ Revit, Rhino 3D, AutoCAD, Enscape.
 
 Most of my repositories are private because they are live products.
 
-Canadian citizen. Based in Beirut until my Master's finishes in July 2028.
+Canadian citizen. Based in Beirut until my Master's finishes in June 2028.
 
 [ahmadsaridar.com](https://ahmadsaridar.com) · ahmad.w.saridar@gmail.com
